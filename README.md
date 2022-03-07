@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me on <elamurasu1606@outlook.in>
 
 <!---
 Elamurasu/Elamurasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
