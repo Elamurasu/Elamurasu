@@ -1,7 +1,7 @@
 ```
 - 👋 Hi, I’m @Elamurasu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web engineering
+- 🌱 I’m currently learning 
 - 💞️ I’m working at verticurl as a front end developer (CX)
 ```
 
